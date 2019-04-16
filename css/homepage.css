@@ -1,0 +1,105 @@
+body{
+    background-position: center;
+    background-attachment: scroll;
+    background-size: 180vh;
+    background-repeat: no-repeat;
+    grid-template-rows: repeat(12,1fr);
+    grid-template-columns: repeat(12,1fr);
+    background:#fff;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color:black;
+    margin: 0;
+    padding: 0;
+    }
+.swiper-container {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;  
+
+}
+    
+    
+.picture1{
+    background-image: url("../photos/1.JPG");
+    width:1100px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-position: center;
+    margin-left: 90px;
+}
+.picture2{
+    background-image: url("../photos/a.JPG");
+    width:1100px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-position: center;
+    margin-left: 90px;
+}
+nav {
+    color: #E99331;
+    
+}
+
+p {
+    text-align: center;
+    padding: 10px;
+    width: 900px;
+    height: 50px;
+    text-align: justify;
+
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 200px;
+
+    text-decoration: none;
+    text-indent: 50px;
+    letter-spacing: 1.3px;
+    line-height: 1.7;
+    word-spacing: 5px;
+
+    color:#E99331;
+    -webkit-text-fill-color: black;
+    -webkit-text-stroke-width: 0.4px;
+}
+
+h5{
+    margin-top: 900px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    text-align: center;
+    color:#E99331;
+    -webkit-text-fill-color: black;
+    -webkit-text-stroke-width: 0.2px;
+}
+
+#btn1{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+
+    margin-right: 0px;
+    margin-left: 400px;
+}
+.carousel-inner{
+align-content: center;  
+}
+
