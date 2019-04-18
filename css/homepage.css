@@ -27,7 +27,7 @@ body{
     
     
 .picture1{
-    background-image: url("../photos/1.JPG");
+    background-image: url("../assets/img/drinkingCoffe.JPG");
     width:1100px;
     height: 600px;
     background-repeat: no-repeat;
@@ -37,7 +37,7 @@ body{
     margin-left: 90px;
 }
 .picture2{
-    background-image: url("../photos/a.JPG");
+    background-image: url("../assets/img/eatingCake.JPG");
     width:1100px;
     height: 600px;
     background-repeat: no-repeat;
